@@ -1,0 +1,7 @@
+venv/
+notebooks/.ipynb_checkpoints
+*.txt
+*.png
+notebooks/.DS_Store
+.DS_Store
+.idea
